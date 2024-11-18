@@ -1,19 +1,6 @@
 # music-collaboration-project
 
-Instructions to run 
-
-1. Compile the code
-
-Open your terminal, navigate to the project directory, and compile the Java files:
-```
-javac Admin.java User.java Musician.java Project.java MusicFile.java Portfolio.java Content.java SystemSettings.java Main.java
-```
-
-2. Run the Program
-
-```
-java Main
-```
+An online music collaboration platform where musicians can collaborate on projects, share and edit music files, and manage their music portfolios. Administrators will manage users and content, while musicians will focus on collaborative projects and music management
 
 
 Testing Each Feature via the Interactive Interface
